@@ -424,7 +424,7 @@ def win_player(l):
         btn_next_part = tk.Button(premiere_fn,text = "prochaine Partie",bg = "#a7d9f5",command = again_player,font = ("times new roman",15))
         btn_next_part.place(x=10,y=370,width=160,height=40)
     else:
-        temps = time.strftime("%d/%M/%Y %H:%M/%S")
+        temps = time.strftime("%d/%M/%Y %H:%M:%S")
         score1 = {
             "idscore" :len(scores),
             "nameScore" : score_player_one,
