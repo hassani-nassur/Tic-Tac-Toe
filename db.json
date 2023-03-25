@@ -1,0 +1,66 @@
+{
+ "players": [
+  {
+   "idplayer": 0,
+   "name": "nassur"
+  },
+  {
+   "idplayer": 1,
+   "name": "Ordinateur"
+  },
+  {
+   "idplayer": 2,
+   "name": "hassani"
+  }
+ ],
+ "Scores": [
+  {
+   "idscore": 0,
+   "nameScore": 15,
+   "idplayer": 0,
+   "timePlayer": "25/10/2023 17:10/10"
+  },
+  {
+   "idscore": 1,
+   "nameScore": 0,
+   "idplayer": 1,
+   "timePlayer": "25/10/2023 17:10/10"
+  },
+  {
+   "idscore": 2,
+   "nameScore": 5,
+   "idplayer": 0,
+   "timePlayer": "25/11/2023 17:11/48"
+  },
+  {
+   "idscore": 3,
+   "nameScore": 0,
+   "idplayer": 2,
+   "timePlayer": "25/11/2023 17:11/48"
+  },
+  {
+   "idscore": 4,
+   "nameScore": 0,
+   "idplayer": 0,
+   "timePlayer": "25/12/2023 21:12/10"
+  },
+  {
+   "idscore": 5,
+   "nameScore": 5,
+   "idplayer": 2,
+   "timePlayer": "25/12/2023 21:12/10"
+  },
+  {
+   "idscore": 6,
+   "nameScore": 5,
+   "idplayer": 0,
+   "timePlayer": "25/12/2023 21:12/18"
+  },
+  {
+   "idscore": 7,
+   "nameScore": 0,
+   "idplayer": 2,
+   "timePlayer": "25/12/2023 21:12/18"
+  }
+ ]
+}
